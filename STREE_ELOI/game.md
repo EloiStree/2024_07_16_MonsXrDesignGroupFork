@@ -1,2 +1,3 @@
-![image](https://github.com/EloiTeaching/2024_07_16_MonsXrDesignGroupFork/assets/175065456/f4c4b0eb-c228-4dbf-882c-b3da59461e0a)
-C'est jeu est bien
+
+![image](https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork/assets/175065456/7a966cea-6be5-47b3-9df4-f67377354ada)
+Ce jeu est trop cool.
