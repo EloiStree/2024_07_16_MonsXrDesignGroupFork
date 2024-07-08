@@ -1,2 +1,3 @@
-# 2024_07_16_MonsXrDesignGroupFork
-Let's learn together about virtual reality and git in group.
+# Mons XR design en groupe
+
+Atelier: https://github.com/EloiStree/2024_07_16_MonsXrDesign/tree/main
