@@ -146,5 +146,5 @@
 
 ![Nintendo Labo VR Kit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30bciqFe-B-8IeHhNEnF3ebgq3FLtQ89zhw&s)
 
-## Plamer Lucker killing VR Headset
+## Palmer Luckey killing VR Headset
 ![alt text](image-9.png)
