@@ -1,7 +1,8 @@
 
 
-Ajouter au manifest.json du projet principale ( pas celui de quarantaine ).
-Ajouter le Prefab "Grouped Room Start Pack" du le package "Grouped Room Start Pack" dans une scène vide pour voir le résultat global.
+- Ajouter le text suivant dans le au manifest.json du projet principale _( pas celui de quarantaine )_.
+- Ajouter le Prefab "Grouped Room Start Pack" du le package "Grouped Room Start Pack" dans une scène vide pour voir le résultat de tous.
+- Retirer packages-lock.json dans package du projet principale pour mettre tout le monde à jour.
 
 ``` 
     "be.eloistree.openbrushtechoroom": "https://github.com/EloiStree/2024_07_17_OpenBrushTechoDesign.git",
